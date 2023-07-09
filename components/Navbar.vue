@@ -1,5 +1,5 @@
 <template>
-  <h1>hello Nav Bar</h1>
+  <h1 class="text-3xl font-bold underline">hello Nav Bar</h1>
 </template>
 
 <script>
