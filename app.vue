@@ -5,7 +5,9 @@
 </template>
 
 <style scoped>
+
 .box {
+  height: 100vh;
   background-color: rgba(0, 0, 0, 0.947) !important;
   background: 
   /* Horizontal Line */ radial-gradient(
