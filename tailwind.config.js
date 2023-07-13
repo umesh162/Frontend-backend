@@ -9,7 +9,11 @@ module.exports = {
     "./app.vue",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        IBM: ['IBM Plex Sans'],
+       },
+    },
   },
   plugins: [],
 };
